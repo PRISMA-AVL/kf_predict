@@ -4,7 +4,6 @@ import numpy as np
 import os, sys
 import matplotlib.pyplot as plt
 import matplotlib.patches as patches
-from torch import tensor as ts
 from mpl_toolkits.mplot3d import Axes3D
 
 
